@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hai, gw Yan
 
-<!--
-**YanKuro12/YanKuro12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gw suka ngoding, nyoba hal baru, dan bikin berbagai macam project. 
+Kadang bikin website, bot, tools, sampai programming language sendiri.
 
-Here are some ideas to get you started:
+## Bahasa Pemrograman Tercinta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust
+- JavaScript / TypeScript
+- Python
+- Go
+- C++
+
+## Project yang lagi gw kerjain
+
+- **KuroLanguage** — Programming language yang dirancang untuk para pemula
+- **KuroTools** — CLI tools buat security dan developer
+- **KuroPanel** — Panel buat ngelola infrastructure
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanKuro12&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanKuro12&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+Gw masih terus belajar dan ngembangin project-project baru.
+
+**Ngoding, belajar, dan bikin sesuatu.**
